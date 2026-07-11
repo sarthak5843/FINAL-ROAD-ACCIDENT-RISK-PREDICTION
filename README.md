@@ -208,4 +208,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 **🎯 Ready to predict accident risks with state-of-the-art deep learning!** 🚗⚠️# Road-Accident-Risk-Prediction
-# FINAL-ROAD-ACCIDENT-RISK-PREDICTION
+# ROAD-ACCIDENT-RISK-PREDICTION

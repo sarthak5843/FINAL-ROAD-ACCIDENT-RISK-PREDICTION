@@ -60,3 +60,19 @@ datasets/
 # Temporary files
 tmp/
 temp/
+
+# Backup files
+*.md~
+*.py~
+*.bak
+
+# Duplicate app test versions (keep only app.py)
+app_demo.py
+app_fast.py
+app_fixed_ai.py
+app_fresh.py
+app_hybrid.py
+app_model_loaded.py
+app_real_api.py
+app_simple.py
+app_working.py
